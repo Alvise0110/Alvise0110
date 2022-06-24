@@ -1,0 +1,6 @@
+- # Sobre Mim
+- ## Estudante Alura
+- 
+- Olá meu nome é Gabriel
+- Estou interessado em aprender e programar novas linguagens
+- Estou aprendendo a programar
